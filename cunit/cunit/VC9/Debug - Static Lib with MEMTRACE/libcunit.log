@@ -1,0 +1,38 @@
+﻿生成启动时间为 2017/5/17 22:59:15。
+     1>项目“F:\BaiduDisk\home storage\code\mcuboot\cunit\cunit\VC9\libcunit.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug - Static Lib with MEMTRACE\libcunit.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\CUnit\Headers /ZI /nologo /W4 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D MEMTRACE /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm /RTC1 /MTd /GS /fp:precise /Za /Zc:wchar_t /Zc:forScope /Fo"Debug - Static Lib with MEMTRACE\\" /Fd"Debug - Static Lib with MEMTRACE\vc80_libcunit.pdb" /FR"Debug - Static Lib with MEMTRACE\\" /Gd /TC /analyze- /errorReport:prompt ..\CUnit\Sources\Framework\CUError.c ..\CUnit\Sources\Framework\MyMem.c ..\CUnit\Sources\Framework\TestDB.c ..\CUnit\Sources\Framework\TestRun.c ..\CUnit\Sources\Framework\Util.c
+         Util.c
+     1>c:\program files\microsoft visual studio 10.0\vc\include\sal.h(109): warning C4001: 使用了非标准扩展“single line comment”
+         TestRun.c
+     1>c:\program files\microsoft visual studio 10.0\vc\include\sal.h(109): warning C4001: 使用了非标准扩展“single line comment”
+         TestDB.c
+     1>c:\program files\microsoft visual studio 10.0\vc\include\sal.h(109): warning C4001: 使用了非标准扩展“single line comment”
+         MyMem.c
+     1>c:\program files\microsoft visual studio 10.0\vc\include\sal.h(109): warning C4001: 使用了非标准扩展“single line comment”
+         CUError.c
+     1>c:\program files\microsoft visual studio 10.0\vc\include\sal.h(109): warning C4001: 使用了非标准扩展“single line comment”
+         正在生成代码...
+       Lib:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"Debug - Static Lib with MEMTRACE\libcunit.lib" /NOLOGO "Debug - Static Lib with MEMTRACE\Automated.obj"
+         "Debug - Static Lib with MEMTRACE\Basic.obj"
+         "Debug - Static Lib with MEMTRACE\Console.obj"
+         "Debug - Static Lib with MEMTRACE\CUError.obj"
+         "Debug - Static Lib with MEMTRACE\MyMem.obj"
+         "Debug - Static Lib with MEMTRACE\TestDB.obj"
+         "Debug - Static Lib with MEMTRACE\TestRun.obj"
+         "Debug - Static Lib with MEMTRACE\Util.obj"
+         libcunit.vcxproj -> F:\BaiduDisk\home storage\code\mcuboot\cunit\cunit\VC9\Debug - Static Lib with MEMTRACE\libcunit.lib
+       BscMake:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\bscmake.exe /nologo /o"Debug - Static Lib with MEMTRACE\libcunit.bsc" "Debug - Static Lib with MEMTRACE\Automated.sbr" "Debug - Static Lib with MEMTRACE\Basic.sbr" "Debug - Static Lib with MEMTRACE\Console.sbr" "Debug - Static Lib with MEMTRACE\CUError.sbr" "Debug - Static Lib with MEMTRACE\MyMem.sbr" "Debug - Static Lib with MEMTRACE\TestDB.sbr" "Debug - Static Lib with MEMTRACE\TestRun.sbr" "Debug - Static Lib with MEMTRACE\Util.sbr"
+       FinalizeBuildStatus:
+         正在删除文件“Debug - Static Lib with MEMTRACE\libcunit.unsuccessfulbuild”。
+         正在对“Debug - Static Lib with MEMTRACE\libcunit.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\BaiduDisk\home storage\code\mcuboot\cunit\cunit\VC9\libcunit.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.29

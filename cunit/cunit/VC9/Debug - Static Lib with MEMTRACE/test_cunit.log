@@ -1,0 +1,44 @@
+﻿生成启动时间为 2017/5/17 22:59:33。
+     1>项目“F:\BaiduDisk\home storage\code\mcuboot\cunit\cunit\VC9\test_cunit.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug - Static Lib with MEMTRACE\test_cunit.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\CUnit\Sources\Test /I..\CUnit\Headers /Zi /nologo /W4 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D MEMTRACE /D CUNIT_BUILD_TESTS /D CUNIT_DO_NOT_DEFINE_UNLESS_BUILDING_TESTS /D _CRT_SECURE_NO_DEPRECATE /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm /RTC1 /MTd /GS /fp:precise /Za /Zc:wchar_t /Zc:forScope /Fo"Debug - Static Lib with MEMTRACE\test\\" /Fd"Debug - Static Lib with MEMTRACE\vc80_test_cunit.pdb" /FR"Debug - Static Lib with MEMTRACE\\" /Gd /TC /analyze- /errorReport:prompt ..\CUnit\Sources\Framework\CUError.c ..\CUnit\Sources\Framework\MyMem.c ..\CUnit\Sources\Framework\TestDB.c ..\CUnit\Sources\Framework\TestRun.c ..\CUnit\Sources\Framework\Util.c
+         Util.c
+     1>C:\Program Files\Microsoft Visual Studio 10.0\VC\include\sal.h(109): warning C4001: 使用了非标准扩展“single line comment”
+         TestRun.c
+     1>C:\Program Files\Microsoft Visual Studio 10.0\VC\include\sal.h(109): warning C4001: 使用了非标准扩展“single line comment”
+         TestDB.c
+     1>C:\Program Files\Microsoft Visual Studio 10.0\VC\include\sal.h(109): warning C4001: 使用了非标准扩展“single line comment”
+         MyMem.c
+     1>C:\Program Files\Microsoft Visual Studio 10.0\VC\include\sal.h(109): warning C4001: 使用了非标准扩展“single line comment”
+         CUError.c
+     1>C:\Program Files\Microsoft Visual Studio 10.0\VC\include\sal.h(109): warning C4001: 使用了非标准扩展“single line comment”
+         正在生成代码...
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Debug - Static Lib with MEMTRACE\test_cunit.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug - Static Lib with MEMTRACE\test_cunit.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"Debug - Static Lib with MEMTRACE\test_cunit.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"Debug - Static Lib with MEMTRACE\test_cunit.lib" /MACHINE:X86 "Debug - Static Lib with MEMTRACE\test_cunit.exe.embed.manifest.res"
+         "Debug - Static Lib with MEMTRACE\test\CUError.obj"
+         "Debug - Static Lib with MEMTRACE\test\MyMem.obj"
+         "Debug - Static Lib with MEMTRACE\test\test_cunit.obj"
+         "Debug - Static Lib with MEMTRACE\test\TestDB.obj"
+         "Debug - Static Lib with MEMTRACE\test\TestRun.obj"
+         "Debug - Static Lib with MEMTRACE\test\Util.obj"
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug - Static Lib with MEMTRACE\test_cunit.exe.embed.manifest" /manifest "Debug - Static Lib with MEMTRACE\test_cunit.exe.intermediate.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         test_cunit.vcxproj -> F:\BaiduDisk\home storage\code\mcuboot\cunit\cunit\VC9\Debug - Static Lib with MEMTRACE\test_cunit.exe
+       BscMake:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\bscmake.exe /nologo /o"Debug - Static Lib with MEMTRACE\test_cunit.bsc" "Debug - Static Lib with MEMTRACE\CUError.sbr" "Debug - Static Lib with MEMTRACE\MyMem.sbr" "Debug - Static Lib with MEMTRACE\test_cunit.sbr" "Debug - Static Lib with MEMTRACE\TestDB.sbr" "Debug - Static Lib with MEMTRACE\TestRun.sbr" "Debug - Static Lib with MEMTRACE\Util.sbr"
+       FinalizeBuildStatus:
+         正在删除文件“Debug - Static Lib with MEMTRACE\test_cunit.unsuccessfulbuild”。
+         正在对“Debug - Static Lib with MEMTRACE\test_cunit.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\BaiduDisk\home storage\code\mcuboot\cunit\cunit\VC9\test_cunit.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.63

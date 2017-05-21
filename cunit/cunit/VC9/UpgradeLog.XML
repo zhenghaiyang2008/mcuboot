@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CUnit">
+</Property><Property Name="解决方案文件" Value="F:\BaiduDisk\home storage\code\mcuboot\cunit\cunit\VC9\CUnit.sln">
+</Property><Property Name="用户选项文件" Value="F:\BaiduDisk\home storage\code\mcuboot\cunit\cunit\VC9\CUnit.suo">
+</Property><Property Name="Date" Value="2017年5月17日">
+</Property><Property Name="Time" Value="22:29">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CUnit.sln" Description="文件已成功备份为 F:\BaiduDisk\home storage\code\mcuboot\cunit\cunit\VC9\CUnit.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="CUnit.suo" Description="文件已成功备份为 F:\BaiduDisk\home storage\code\mcuboot\cunit\cunit\VC9\CUnit.suo.old">
+</Event><Event ErrorLevel="0" Project="libcunit" Source="libcunit.vcproj" Description="Converting project file 'F:\BaiduDisk\home storage\code\mcuboot\cunit\cunit\VC9\libcunit.vcproj'.">
+</Event><Event ErrorLevel="1" Project="libcunit" Source="libcunit.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="libcunit" Source="libcunit.vcproj" Description="Done converting to new project file 'F:\BaiduDisk\home storage\code\mcuboot\cunit\cunit\VC9\libcunit.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="libcunit" Source="libcunit.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="test_cunit" Source="test_cunit.vcproj" Description="Converting project file 'F:\BaiduDisk\home storage\code\mcuboot\cunit\cunit\VC9\test_cunit.vcproj'.">
+</Event><Event ErrorLevel="1" Project="test_cunit" Source="test_cunit.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="test_cunit" Source="test_cunit.vcproj" Description="Done converting to new project file 'F:\BaiduDisk\home storage\code\mcuboot\cunit\cunit\VC9\test_cunit.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="test_cunit" Source="test_cunit.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AutomatedTest" Source="AutomatedTest.vcproj" Description="Converting project file 'F:\BaiduDisk\home storage\code\mcuboot\cunit\cunit\VC9\AutomatedTest.vcproj'.">
+</Event><Event ErrorLevel="1" Project="AutomatedTest" Source="AutomatedTest.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="AutomatedTest" Source="AutomatedTest.vcproj" Description="Done converting to new project file 'F:\BaiduDisk\home storage\code\mcuboot\cunit\cunit\VC9\AutomatedTest.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="AutomatedTest" Source="AutomatedTest.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BasicTest" Source="BasicTest.vcproj" Description="Converting project file 'F:\BaiduDisk\home storage\code\mcuboot\cunit\cunit\VC9\BasicTest.vcproj'.">
+</Event><Event ErrorLevel="1" Project="BasicTest" Source="BasicTest.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="BasicTest" Source="BasicTest.vcproj" Description="Done converting to new project file 'F:\BaiduDisk\home storage\code\mcuboot\cunit\cunit\VC9\BasicTest.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="BasicTest" Source="BasicTest.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConsoleTest" Source="ConsoleTest.vcproj" Description="Converting project file 'F:\BaiduDisk\home storage\code\mcuboot\cunit\cunit\VC9\ConsoleTest.vcproj'.">
+</Event><Event ErrorLevel="1" Project="ConsoleTest" Source="ConsoleTest.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="ConsoleTest" Source="ConsoleTest.vcproj" Description="Done converting to new project file 'F:\BaiduDisk\home storage\code\mcuboot\cunit\cunit\VC9\ConsoleTest.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="ConsoleTest" Source="ConsoleTest.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CUnit.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="CUnit.sln" Description="Converted">
+</Event></UpgradeLog>
